@@ -7,6 +7,5 @@
 - `ConvNet5.pkl` - Saved file with the trained model, optimizer, loss function, and epochs.
 - `Report.pdf` - Project report.
 
-### Image sources
-Generated a new dataset of 4k images by collecting, pre-processing and performing data-augmentation of facial
-images. Most images were sourced from Kaggle. 
+### Dataset
+Generated a new dataset of 4k images by collecting, pre-processing and performing data-augmentation of facial images. Initial data was taken from publicly available datasets, others were sourced from internet. 
